@@ -25,7 +25,7 @@ A modern supply chain analytics dashboard built with Vue 3, Chart.js, and Tailwi
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/Sidhved/supply-chain-dashboard.git
+git clone https://github.com/Sidhved/SupplyChainDashboard.git
 ```
 
 2. Install dependencies
